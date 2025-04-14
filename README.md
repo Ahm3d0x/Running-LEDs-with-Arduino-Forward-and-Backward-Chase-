@@ -7,11 +7,9 @@ Perfect for beginners to learn digital output control, loops, and basic circuit 
 
 ## Table of Contents
 - [Components Required](#components-required)
-- [Circuit Diagram](#circuit-diagram)
 - [Circuit Connections](#circuit-connections)
 - [Arduino Code](#arduino-code)
 - [How to Use](#how-to-use)
-- [Ideas for Extension](#ideas-for-extension)
 - [License](#license)
 - [Author Info](#author-info)
 
@@ -28,11 +26,6 @@ Perfect for beginners to learn digital output control, loops, and basic circuit 
 
 ---
 
-## Circuit Diagram
-
-![Circuit Diagram](A_schematic_diagram_of_an_Arduino_Uno_microcontrol.png)
-
----
 
 ## Circuit Connections
 
