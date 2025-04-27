@@ -82,5 +82,5 @@ Each LED cathode (short leg) is connected to GND through a 220Ω resistor.
 - University: Zagazig University, Egypt
 - GitHub: https://github.com/ah2005211
 - LinkedIn: https://www.linkedin.com/in/ah2005211
-- Email: ah2005211@gmail.com
+- Email: ahm3d.m.attia@gmail.com
 
