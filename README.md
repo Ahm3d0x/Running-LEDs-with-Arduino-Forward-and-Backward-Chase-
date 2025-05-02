@@ -45,7 +45,8 @@ Each LED cathode (short leg) is connected to GND through a 220Ω resistor.
 | D10         | LED 9       |
 
 ---
-
+#[Running LEDs with Arduino Circuit Connections](https://github.com/Ahm3d0x/Running-LEDs-with-Arduino-Forward-and-Backward-Chase-/blob/main/Running%20LEDs%20with%20Arduino%20%E2%80%93%20Forward%20and%20Backward%20Chase!.png)
+---
 
 # How to Use
 ## Build the circuit on a breadboard as described above.
